@@ -2,15 +2,15 @@
 
 I'm a recently graduated software developer with a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. 
 
-## Education
+## 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
 
 - 🔭 I’m currently working on polishing my Modern-Portfolio
-- 🌱 I’m currently learning Docker and Kubernates
-- 👯 I’m looking to collaborate on a Fullstack Application
+- 📚 I’m currently learning Docker and Kubernates
+- 🤝 I’m looking to collaborate on a Fullstack Application
 - 💬 Ask me for help and insight on projects!
 - 📫 How to reach me: Message me on LinkedIn or [Email](gabriel.sundiniz@gmail.com)
-- ⚡ Fun fact: I was born in Rio de Janeiro, Brazil! Yes, just like the movie!
+- ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsdiniz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gsdiniz) 
