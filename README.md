@@ -2,7 +2,7 @@
 
 I'm a recently graduated software developer with a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. 
 
-![name GIF](link)
+![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
 ## 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
