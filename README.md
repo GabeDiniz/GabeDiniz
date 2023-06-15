@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! My name is Gabe 👋</h1>
 
-I'm a recently graduated software developer with a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. 
+<p align="center">I recently graduated from the University of Waterloo and I am currently working at OpenText as a software developer. I have a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications.</p>
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
