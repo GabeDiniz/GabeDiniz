@@ -11,7 +11,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - 📚 I’m currently learning Docker and Kubernetes
 - 🤝 I’m looking to collaborate on a Fullstack Application
 - 💬 Ask me for help and insight on projects!
-- 📫 How to reach me: Message me on LinkedIn or [Email](gabriel.sundiniz@gmail.com)
+- 📫 How to reach me: Message me on LinkedIn (linked below)!
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
 
 # 🌐 Socials:
