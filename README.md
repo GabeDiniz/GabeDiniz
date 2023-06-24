@@ -4,7 +4,7 @@
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
-## 🎓 Education
+# 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
 
 - 🔭 I’m currently working on polishing my Modern-Portfolio
@@ -14,7 +14,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - 📫 How to reach me: Message me on LinkedIn or [Email](gabriel.sundiniz@gmail.com)
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsdiniz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gsdiniz) 
 
 # 💻 Tech Stack:
