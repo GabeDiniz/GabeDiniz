@@ -4,7 +4,7 @@
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
-🎓 Education
+# 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
 
 - 🔭 I’m currently working on polishing my Modern-Portfolio
