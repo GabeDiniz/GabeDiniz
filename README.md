@@ -7,6 +7,7 @@
 # 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
 
+# 🤯 Get to know me
 - 🔭 I’m currently working on polishing my Modern-Portfolio
 - 📚 I’m currently learning Ansible and taking some uDemy courses
 - 🤝 I’m looking to collaborate on a Fullstack Application
