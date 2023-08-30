@@ -6,6 +6,7 @@
 
 # 🎓 Education
 Bachelor's Degree from the University of Waterloo, 2023
+- 🏆 Graduated on Dean's Honours List
 
 # 🤯 Get to know me
 - 🔭 I’m currently working on polishing my Modern-Portfolio
