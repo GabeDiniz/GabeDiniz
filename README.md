@@ -10,7 +10,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 # 🤯 Get to know me
 - 🔭 I’m currently working on polishing my Modern-Portfolio
-- 📚 I’m currently learning Ansible and taking some uDemy courses
+- 📚 I’m currently learning some uDemy courses on Web Dev and design
 - 🤝 I’m looking to collaborate on a Fullstack Application
 - 💬 Ask me for help and insight on projects!
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
