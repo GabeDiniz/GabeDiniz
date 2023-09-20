@@ -17,7 +17,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
 
-# 🌐 Socials:
+# 🤝🏽 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsdiniz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gsdiniz)
 
 # 💻 Tech Stack:
