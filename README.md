@@ -10,7 +10,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - ⚙️ HackTheNorth Mentor (2023) 
 
 # 🤯 Get to know me
-- 🔭 I’m currently working on polishing my Modern-Portfolio
+- 🔭 I’m currently working on polishing my Modern-Portfolio and on a Club-Roullete application for golfing!
 - 📚 I’m currently learning some uDemy courses on Web Dev and design
 - 🤝 I’m looking to collaborate on a Fullstack Application
 - 💬 Ask me for help and insight on projects!
