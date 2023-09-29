@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! My name is Gabe 👋</h1>
 
-<p align="center">I recently graduated from the University of Waterloo and I am currently working at OpenText as a Software Developer for the Build Team. I have a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications.</p>
+<p align="center">I recently graduated from the University of Waterloo and I am currently working at OpenText as a Software Developer for the Build Team. I have a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. You can learn more on my website linked below!</p>
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
@@ -10,7 +10,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - ⚙️ HackTheNorth Mentor (2023) 
 
 # 🤯 Get to know me
-- 🔭 I’m currently working on polishing my Modern-Portfolio and on a Club-Roullete application for golfing!
+- 🔭 I’m currently working on polishing my Modern Portfolio and on a Club-Roullete application for golfing!
 - 📚 I’m currently learning some uDemy courses on Web Dev and design
 - 🤝 I’m looking to collaborate on a Fullstack Application
 - 💬 Ask me for help and insight on projects!
