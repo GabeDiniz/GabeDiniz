@@ -29,6 +29,10 @@ Bachelor's Degree from the University of Waterloo, 2023
 # 🏗️ Favourite Projects:
 WIP
 
+# 📚 Certifications:
+- **Ansible for Beginners** (Udemy)
+- **Next.js** (Udemy)
+
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=GabeDiniz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabeDiniz&theme=dark&hide_border=false)<br/>
