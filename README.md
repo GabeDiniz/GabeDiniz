@@ -28,7 +28,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 # 🏗️ Favourite Projects:
 <!-- FORMAT: [![alt-text](imglink - https://github.com/GabeDiniz/GabeDiniz/blob/main/test2.png)](ref-link - https://www.linkedin.com/in/gabrielsdiniz/) -->
-[![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/project-portfolio.png)](https://www.linkedin.com/in/gabrielsdiniz/)
+[![proj1]()](https://www.linkedin.com/in/gabrielsdiniz/)
 # 📚 Certifications:
 - **Ansible for Beginners** (Udemy)
 - **Next.js** (Udemy)
