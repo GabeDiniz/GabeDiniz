@@ -41,8 +41,8 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 # 📚 Certifications:
 
-[![cert1](https://github.com/GabeDiniz/GabeDiniz/blob/main/certification/cert-ansible.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)
-[![cert2](https://github.com/GabeDiniz/GabeDiniz/blob/main/certification/cert-nextjs.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)
+[![cert1](https://github.com/GabeDiniz/GabeDiniz/blob/main/certifications/cert-ansible.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)
+[![cert2](https://github.com/GabeDiniz/GabeDiniz/blob/main/certifications/cert-nextjs.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)
 
 # 📊 GitHub Stats:
 
