@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! My name is Gabe 👋</h1>
 
-<p align="center">I recently graduated from the University of Waterloo and I am currently working at OpenText as a Software Developer for the Build Team and I am a Software Engineer for the Laurier HawkHacks🦅 team. I have a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. You can learn more on my website linked below!</p>
+<p align="center">I recently graduated from the University of Waterloo🎓. I am working at OpenText🌎 as a Software Developer for the Build Team, and I am a Software Engineer for Laurier HawkHacks🦅 (Hackathon Team). I have a passion for creating innovative and user-friendly software solutions. I am excited to bring my technical knowledge and creative problem-solving skills to create awesome applications. You can learn more on my website linked below!</p>
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
