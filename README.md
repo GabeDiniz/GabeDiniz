@@ -16,7 +16,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - 🔭 I’m currently working on polishing my Modern Portfolio and on a Business Website!
 - 📚 I’m currently taking some uDemy courses on Web Dev and design
 - 🎖️ I'm working on getting my AWS Cloud Practioner Certification!
-- 🤝 I’m collaborating on HawkHacks (a Fullstack Hackathon application)
+- 🤝 I’m collaborating on the HawkHacks (Laurier's Hackathon) Dashboard and Website
 - 💬 Ask me for help and insight on projects!
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
