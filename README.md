@@ -13,6 +13,8 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 # 🤯 Get to know me
 
+<img align="right" src="programmer-no-bg.png" />
+
 - 🔭 I’m currently working on polishing my Modern Portfolio and on a Business Website!
 - 📚 I’m currently taking some uDemy courses on Web Dev and design
 - 🎖️ I'm working on getting my AWS Cloud Practioner Certification!
