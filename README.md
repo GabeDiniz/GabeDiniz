@@ -157,15 +157,16 @@ Bachelor's Degree from the University of Waterloo, 2023
 [![cert1](https://github.com/GabeDiniz/GabeDiniz/blob/main/certifications/cert-ansible.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)&nbsp;&nbsp;
 [![cert2](https://github.com/GabeDiniz/GabeDiniz/blob/main/certifications/cert-nextjs.png)](https://www.linkedin.com/in/gabrielsdiniz/details/certifications/)
 
-# 📊 GitHub Stats:
+# <p align="center">📊 GitHub Stats:<p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabeDiniz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabeDiniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2&custom_title=My%20addictions..." height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabeDiniz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
+  <!--TROPHIES: <img src="https://github-profile-trophy.vercel.app?username=GabeDiniz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=GabeDiniz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabeDiniz&theme=dark&hide_border=false)<br/>
-
-<!-- GitStats: MOST USED LANGUAGE
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeDiniz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### <p align="center">✍️ Random Dev Quote<p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="streak graph"  />
+</div>
