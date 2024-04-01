@@ -20,8 +20,8 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 <img align="right" src="programmer-bg.png" />
 
-- 🔭 I’m currently working on polishing my Modern Portfolio and on a Business Website!
-- 📚 I’m currently taking some uDemy courses on Web Dev and design
+- 🔭 I’m currently working on polishing my Modern Portfolio and on a Discord Bot!
+- 📚 I’m currently taking some uDemy courses on Python.
 - 🎖️ I'm working on getting my AWS Cloud Practioner Certification!
 - 🤝 I’m collaborating on the HawkHacks (Laurier's Hackathon) Dashboard and Website
 - 💬 Ask me for help and insight on projects!
