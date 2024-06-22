@@ -4,11 +4,11 @@
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://modern-portfolio-gabediniz.vercel.app/">
     <img src="https://github.com/GabeDiniz/GabeDiniz/blob/main/web-link.png" alt="weblink">
   </a>
-</p>
+</p> -->
 
 # 🎓 Education
 
