@@ -73,9 +73,10 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 <!-- FORMAT: [![alt-text](imglink - https://github.com/GabeDiniz/GabeDiniz/blob/main/test2.png)](ref-link - https://www.linkedin.com/in/gabrielsdiniz/) -->
 
-[![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-portfolio.png)](https://github.com/GabeDiniz/modern_portfolio#-fullstack-portfolio-website)&nbsp;
-[![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-discordv2.png)](https://github.com/GabeDiniz/discord-bot-v2)&nbsp;
-[![proj2](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-golf.png)](https://github.com/GabeDiniz/club-roulette)
+[![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-botv2.png)](https://github.com/GabeDiniz/discord-bot-v2)&nbsp;
+<!--  [![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-portfolio.png)](https://github.com/GabeDiniz/modern_portfolio#-fullstack-portfolio-website)&nbsp;
+[![proj3](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-golf.png)](https://github.com/GabeDiniz/club-roulette)  -->
+
 
 # 📚 Certifications:
 
