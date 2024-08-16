@@ -28,6 +28,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 - 💬 Ask me for help and insight on projects!
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
+- 💍 Got Married: 8.16.24 🥳
 
 # 🤏 Socials:
 
