@@ -90,3 +90,12 @@ Bachelor's Degree from the University of Waterloo, 2023
   <img src="https://github-readme-stats.vercel.app/api?username=GabeDiniz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
   <!--TROPHIES: <img src="https://github-profile-trophy.vercel.app?username=GabeDiniz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
+
+# 📝 For the visitors
+I know what you’re thinking: “Oh, he probably has a ton of commits to markdown files.” And while that’s partly true, it’s also not the whole story. Coding every day has been my secret weapon to staying active and motivated in the software development world.
+
+It might sound a little weird, but it works for me. Regular commits keep me focused on code (yes, with a capital "cOdE"), and they challenge me to come up with new project ideas, explore different technologies, and improve my skills daily.
+
+And no, I’m not committing to my README every day just to inflate my stats — that would be mind-numbingly boring by day three. What really excites me is diving into meaningful work, experimenting with new concepts, and building better and more interesting projects over time.
+
+So while my commit history may seem intense, it’s a reflection of my passion for creating, learning, and pushing myself forward as a developer. Thanks for stopping by and checking out my projects!
