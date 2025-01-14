@@ -75,6 +75,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 <!-- FORMAT: [![alt-text](imglink - https://github.com/GabeDiniz/GabeDiniz/blob/main/test2.png)](ref-link - https://www.linkedin.com/in/gabrielsdiniz/) -->
 
 [![proj1](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-botv2.png)](https://github.com/GabeDiniz/discord-bot-v2)&nbsp;
+[![proj2](https://github.com/GabeDiniz/GabeDiniz/blob/main/projects/proj-githubbot.png)](https://github.com/GabeDiniz/github-bot)&nbsp;
 
 # 📚 Certifications:
 
@@ -92,6 +93,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 </div>
 
 # 📝 For the visitors
+
 I know what you’re thinking: “Oh, he probably has a ton of commits to markdown files.” And while that’s partly true, it’s also not the whole story. Coding every day has been my secret weapon to staying active and motivated in the software development world.
 
 It might sound a little weird, but it works for me. Regular commits keep me focused on code (yes, with a capital "cOdE"), and they challenge me to come up with new project ideas, explore different technologies, and improve my skills daily.
