@@ -96,7 +96,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 I know what you’re thinking: “Oh, he probably has a ton of commits to markdown files.” And while that’s partly true, it’s also not the whole story. Coding every day has been my secret weapon to staying active and motivated in the software development world.
 
-It might sound a little weird, but it works for me. Regular commits keep me focused on code (yes, with a capital "cOdE"), and they challenge me to come up with new project ideas, explore different technologies, and improve my skills daily.
+It might sound a little weird, but it works for me. Regular commits keep me focused on code, and they challenge me to come up with new project ideas, explore different technologies, and improve my skills daily.
 
 And no, I’m not committing to my README every day just to inflate my stats — that would be mind-numbingly boring by day three. What really excites me is diving into meaningful work, experimenting with new concepts, and building better and more interesting projects over time.
 
