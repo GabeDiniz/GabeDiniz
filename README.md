@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! My name is Gabe 👋</h1>
 
-<p align="center">I graduated from the University of Waterloo 🎓 in 2023 and currently work as a Software Developer on the Build Team at OpenText 🌎. I’m also a Software Engineer for Laurier HawkHacks 🦅, where I contribute to organizing one of the region’s best hackathons.</p>
+<p align="center">I graduated from the University of Waterloo 🎓 in 2023 and currently work as a Software Developer on the Build Team at OpenText 🌎. I’m also a Software Engineer for Konfer and HawkHacks 🦅, where I contribute to organizing one of the region’s best hackathons.</p>
 <p align="center">I enjoy creating innovative and user-friendly software solutions, combining technical expertise with creative problem-solving. Whether it’s automation, full-stack development, or DevOps, I’m always eager to tackle new challenges and build meaningful applications! You can learn more on <a href="https://gabediniz.com/">my website</a>!</p>
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
