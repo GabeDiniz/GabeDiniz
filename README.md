@@ -11,6 +11,7 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 - 🏆 Graduated on Dean's Honours List
 - ⚙️ HackTheNorth Mentor (2023)
+- ‍⚖️ SpurHacks Organizer and Judge (2025)
 
 # 🤯 Get to know me
 
