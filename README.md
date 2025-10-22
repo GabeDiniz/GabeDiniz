@@ -11,20 +11,18 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 - 🏆 Graduated on Dean's Honours List
 - ⚙️ HackTheNorth Mentor (2023)
+- 🦅 HawkHacks Organizer (2024)
 - ‍⚖️ SpurHacks Organizer and Judge (2025)
 
 # 🤯 Get to know me
 
 <img align="right" src="programmer-bg.png" />
 
-- 🔭 I’m currently working on polishing my Modern Portfolio and on a Discord Bot!
-- 📚 I’m currently taking some uDemy courses on Python.
+- 📚 I’m currently studying Docker and Network related concepts
 - 🎖️ Recently obtained my AWS Cloud Practioner Certification!
-- 🤝 I’m collaborating on the HawkHacks (Laurier's Hackathon) Dashboard and Website
-- 💬 Ask me for help and insight on projects!
+- 💬 I would love the chance to collaborate on any project you have started, hit me up!
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
-- ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎 Yes, just like the movie!
-- 💍 Got Married: 8.16.24 🥳
+- ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎
 
 # 🤏 Socials:
 
