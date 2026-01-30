@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! My name is Gabe 👋</h1>
 
-<p align="center">I graduated from the University of Waterloo 🎓 in 2023 and currently work as a Software Developer on the Build Team at OpenText 🌎. I’m also a Software Engineer for Konfer and HawkHacks 🦅, where I contribute to organizing one of the region’s best hackathons.</p>
+<p align="center">I graduated from the University of Waterloo 🎓 in 2023 and currently building something new @ an a16z Speedrun Startup 💪. I’m also a Software Engineer for Konfer and HawkHacks 🦅, where I contribute to organizing one of the region’s best hackathons.</p>
 <p align="center">I enjoy creating innovative and user-friendly software solutions, combining technical expertise with creative problem-solving. Whether it’s automation, full-stack development, or DevOps, I’m always eager to tackle new challenges and build meaningful applications! You can learn more on <a href="https://gabediniz.com/">my website</a>!</p>
 
 ![Mario GIF](https://github.com/GabeDiniz/GabeDiniz/blob/main/mario.gif)
@@ -18,8 +18,8 @@ Bachelor's Degree from the University of Waterloo, 2023
 
 <img align="right" src="programmer-bg.png" />
 
-- 📚 I’m currently studying Docker and Network related concepts
-- 🎖️ Recently obtained my AWS Cloud Practioner Certification!
+- 📚 Getting hands-on with AWS 
+- 🎖️ Recently obtained my AWS Cloud Practitioner Certification!
 - 💬 I would love the chance to collaborate on any project you have started, hit me up!
 - 📫 How to reach me: Message me on LinkedIn (linked below) or email me at **gabriel.sundiniz@gmail.com**!
 - ⚡ Fun fact: I was born in Rio de Janeiro, Brazil!🌎
